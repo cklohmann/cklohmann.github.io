@@ -15,7 +15,7 @@ author: Corinne Klohmann
 
 navbar-links:
   About Me: "aboutme"
-  Talks: "Talks"
+  Talks: "talks.md"
   CV: /assests/cv/"Klohmann CV 12_29_19.docx"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
