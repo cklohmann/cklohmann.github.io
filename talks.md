@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Talks
 
 
 1.) PCSGA, 2020
