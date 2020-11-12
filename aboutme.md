@@ -4,7 +4,7 @@ title: About me
 subtitle: My career thus far
 ---
 
-My name is Corinne Klohmann. I have the following qualities:
+My name is Corinne Klohmann.
 
 
 
