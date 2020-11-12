@@ -16,6 +16,7 @@ author: Corinne Klohmann
 navbar-links:
   About Me: "aboutme"
   Talks: "Talks"
+  CV: /assests/cv/"Klohmann CV 12_29_19.docx"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
