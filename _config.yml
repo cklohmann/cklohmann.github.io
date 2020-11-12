@@ -15,6 +15,7 @@ author: Corinne Klohmann
 
 navbar-links:
   About Me: "aboutme"
+  Talks: "Talks"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
